@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "OpenAPI client for @track-ify/spotify.web.api",
   "author": "OpenAPI-Generator Contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Track-ify/spotify.web.api"
+  },
   "keywords": [
     "openapi-client",
     "openapi-generator"
