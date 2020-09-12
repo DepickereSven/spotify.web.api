@@ -1,4 +1,4 @@
-## @track-ify/spotify.web.api@0.0.1
+## @track-ify/spotify.web.api@0.0.2
 
 ### Building
 

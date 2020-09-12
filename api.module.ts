@@ -11,7 +11,7 @@ import { DefaultService } from './api/default.service';
   providers: []
 })
 export class spotifyApiModule {
-    public static forRoot(configurationFactory: () => Configuration): ModuleWithProviders {
+    public static forRoot(configurationFactory: () => Configuration): ModuleWithProviders<spotifyApiModule> {
         return {
             ngModule: spotifyApiModule,
             providers: [ { provide: Configuration, useFactory: configurationFactory } ]
