@@ -1,6 +1,6 @@
 {
   "name": "@track-ify/spotify.web.api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "OpenAPI client for @track-ify/spotify.web.api",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
